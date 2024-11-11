@@ -1,4 +1,4 @@
-CSIT 314
+# CSIT 314 Smallbrain
 Welcome to the Used Car Marketplace project! This is a web application where users can browse, buy, and sell used cars. It is built using PHP, HTML, and a bit of JavaScript for internal verifications.
 
 Features
